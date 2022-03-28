@@ -1,0 +1,6 @@
+#include "queuea.h"
+
+int main()
+{
+    return 0;
+}
